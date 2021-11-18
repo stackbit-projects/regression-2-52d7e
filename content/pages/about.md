@@ -10,7 +10,7 @@ sections:
       BC, making it over 2000 years old. Richard McClintock, a Latin professor
       at Hampden-Sydney College in Virginia, looked up one of the more obscure
       Latin
-      words.![](https://www.google.com/url?sa=i\&url=https%3A%2F%2Ftowardsdatascience.com%2F3-numpy-image-transformations-on-baby-yoda-c27c1409b411\&psig=AOvVaw3Do738y29iSZVod9CSXRet\&ust=1637321078831000\&source=images\&cd=vfe\&ved=0CAsQjRxqFwoTCKCerrzmofQCFQAAAAAdAAAAABAD)
+      words.![](https://images.ctfassets.net/hrltx12pl8hq/7yQR5uJhwEkRfjwMFJ7bUK/dc52a0913e8ff8b5c276177890eb0129/offset_comp\_772626-opt.jpg?fit=fill\&w=800\&h=300)
     feature:
       type: ImageBlock
       url: /images/about.jpg
